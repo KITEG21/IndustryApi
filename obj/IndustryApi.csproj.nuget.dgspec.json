@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\C#\\IndustryApi\\IndustryApi.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\IndustryApi\\IndustryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\C#\\IndustryApi\\IndustryApi.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\IndustryApi\\IndustryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\C#\\IndustryApi\\IndustryApi.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\IndustryApi\\IndustryApi.csproj",
         "projectName": "IndustryApi",
-        "projectPath": "C:\\Users\\User\\Documents\\C#\\IndustryApi\\IndustryApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\C#\\IndustryApi\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\IndustryApi\\IndustryApi.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\IndustryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
