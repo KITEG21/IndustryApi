@@ -1,4 +1,5 @@
-
+using IndustryApi.DataBase;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// builder.Services.AddDbContext<ApiDbContext>(options => 
+// {   //Adding the sql connection
+//     options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+// });
+
 
 var app = builder.Build();
 
